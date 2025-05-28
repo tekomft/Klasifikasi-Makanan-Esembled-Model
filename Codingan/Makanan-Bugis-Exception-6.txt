@@ -1,0 +1,1 @@
+{0: 'Buras', 1: 'Dangkot', 2: 'Gogos', 3: 'Kapurung', 4: 'Sokko', 5: 'Sop Konro'}
