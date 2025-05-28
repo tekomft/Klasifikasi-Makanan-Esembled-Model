@@ -12,4 +12,5 @@ Library:
 9. os
 
 Ensemble Model: MobileNetV2, Xception, EfficientNetB0
+
 Dataset: https://www.kaggle.com/datasets/andimawaddahsumardi/makanan-khas-suku-bugis
